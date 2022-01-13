@@ -5,7 +5,7 @@ import {
   KDTree,
   Vector,
   utils
-} from "scr/flocc.js";
+} from "./flocc.js";
 
 /* ------- PARAMETERS --------- */
 console.log("running");
